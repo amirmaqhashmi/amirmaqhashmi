@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ammir Maqsood
+- 👋 Hi, I’m Amir Maqsood
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
